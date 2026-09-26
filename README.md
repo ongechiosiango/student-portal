@@ -1,15 +1,13 @@
-# utility-tool-2
+# Student Portal
 
-A small auto-generated utility project.
+Computes GPA from grades and credit hours using a weighted average.
 
 ## Usage
 
-    python3 main.py
+    python3 portal.py
 
 ## What it teaches
 
-- Python entry points
-- Basic module structure
-
----
-_Daily learning project, initiated on 2026-09-21._
+- Weighted averages
+- Dictionary lookups for grade points
+- Simple domain models
